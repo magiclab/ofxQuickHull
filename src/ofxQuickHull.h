@@ -1,8 +1,9 @@
 //
 //  ofxQuickHull.h
 //
+//  magicLab 2017
+//  http://www.magiclab.nyc
 //  Created by enrico<nausea>viola on 1/10/17.
-//
 //
 
 #pragma once
